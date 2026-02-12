@@ -7,8 +7,7 @@ venv/
 node_modules/
 dist/
 
-# Model
-*.pth
+
 
 # Data
 data/
