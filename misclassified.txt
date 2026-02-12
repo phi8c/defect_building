@@ -1,0 +1,10 @@
+data\val\cracked_floor_tile\imgi_199_iStock-656900016.jpg | True: cracked_floor_tile | Pred: wall_crack
+data\val\cracked_floor_tile\imgi_204_a-close-up-view-of-a-bathroom-corner-showing-cracked-tiles-and-wall-the-image-captures-the-intersection-of-a-tiled-floor-and-a-wall-highlighting-the-3D9RXNP.jpg | True: cracked_floor_tile | Pred: paint_peeling
+data\val\cracked_floor_tile\imgi_206_Chung-Cu-1.jpg | True: cracked_floor_tile | Pred: wall_crack
+data\val\wall_crack\wc61.jpg | True: wall_crack | Pred: paint_peeling
+data\val\wall_crack\wc62.jpg | True: wall_crack | Pred: cracked_floor_tile
+data\val\wall_crack\wc63.jpg | True: wall_crack | Pred: paint_peeling
+data\val\wall_crack\wc64.jpg | True: wall_crack | Pred: paint_peeling
+data\val\wall_crack\wc66.jpg | True: wall_crack | Pred: cracked_floor_tile
+data\val\wall_crack\wc68.jpg | True: wall_crack | Pred: paint_peeling
+data\val\wall_crack\wc69.jpg | True: wall_crack | Pred: paint_peeling

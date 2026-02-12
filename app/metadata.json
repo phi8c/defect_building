@@ -1,0 +1,7 @@
+{
+  "name": "AI Defect Recognition Assistant",
+  "description": "An intelligent dashboard for recognizing, classifying, and managing construction and real estate defects using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
