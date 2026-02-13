@@ -1,5 +1,4 @@
 import { DefectResult } from "../types";
-
 //const BACKEND_URL = "http://localhost:8000/predict";
 
 const BACKEND_URL = "/api/predict";
